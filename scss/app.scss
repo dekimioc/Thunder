@@ -1,0 +1,22 @@
+// Modules and variables
+@import 'partial/partial';
+@import 'base/base';
+@import 'base/color';
+@import 'base/mixin';
+
+// Page layout
+@import 'layout/layout';
+@import 'layout/page';
+
+// Hacks that need better solution
+@import 'shame/shame';
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
